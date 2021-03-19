@@ -6,6 +6,7 @@
   background-color: white;
 }
 
+/*TODO: picture does not look right relative to text if viewport changes size*/
 #west-photo {
   float: left;
   width: 10%;
@@ -40,5 +41,21 @@ div {
 }
 
 .html-color {
-  
+  color:#E34C26;
+}
+
+.css-color {
+  color: #563d7c
+}
+
+.bootstrap-color {
+  color: rgb(107, 26, 214); 
+}
+
+.javascript-color {
+  color: #f1e05a
+}
+
+.python-color {
+  color: #3572a5;
 }
