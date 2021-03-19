@@ -1,9 +1,17 @@
-.box1 {
+.box-header {
   width: 80%;
   border: 3px solid lightblue;
+  margin: 5px;
 }
 
+/*TODO: fix how photo sits in box and how it moves when page size changes*/
 #west-photo {
   float: left;
   width: 10%;
+}
+
+.box-projects {
+  width: 50%;
+  border: 3px solid lightblue;
+  margin: 5px;
 }
