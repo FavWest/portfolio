@@ -6,7 +6,6 @@
   background-color: white;
 }
 
-/*TODO: fix how photo sits in box and how it moves when page size changes*/
 #west-photo {
   float: left;
   width: 10%;
@@ -38,4 +37,8 @@ body {
 div {
   padding-right: 1%;
   padding-left: 1%;
+}
+
+.html-color {
+  
 }
