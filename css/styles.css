@@ -41,21 +41,26 @@ div {
 }
 
 .html-color {
+  font-weight: bold;
   color:#E34C26;
 }
 
 .css-color {
+  font-weight: bold;
   color: #563d7c
 }
 
 .bootstrap-color {
+  font-weight: bold;
   color: rgb(107, 26, 214); 
 }
 
 .javascript-color {
+  font-weight: bold;
   color: #f1e05a
 }
 
 .python-color {
+  font-weight: bold;
   color: #3572a5;
 }
