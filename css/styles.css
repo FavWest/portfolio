@@ -1,3 +1,14 @@
+/*Element Styles*/
+body {
+  background-color: rgba(176, 224, 230, 0.582);
+}
+
+div {
+  padding-right: 1%;
+  padding-left: 1%;
+}
+
+/*Class Styles*/
 .box-header {
   width: 98%;
   border: 3px solid lightblue;
@@ -8,12 +19,6 @@
 
 .box-header h1 {
   text-align: center;
-}
-
-#west-photo {
-  float: right;
-  width: 33%;
-  padding-top: 1%;
 }
 
 .box-projects {
@@ -32,15 +37,6 @@
   box-sizing: border-box;
   float: right;
   background-color: white;
-}
-
-body {
-  background-color: rgba(176, 224, 230, 0.582);
-}
-
-div {
-  padding-right: 1%;
-  padding-left: 1%;
 }
 
 .html-color {
@@ -66,4 +62,29 @@ div {
 .python-color {
   font-weight: bold;
   color: #3572a5;
+}
+
+.projects-photo {
+  width: 50%;
+  float: left;
+}
+
+.no-border {
+  border-width: 0px;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+/*ID Styles*/
+#west-photo {
+  float: right;
+  width: 33%;
+  padding-top: 1%;
+}
+
+/*Top border is white, so photo looks mis-aligned. Added gray border to show where photo starts*/
+#desert-island-screenshot {
+  border-top: 1px solid lightgray;
 }
