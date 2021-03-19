@@ -6,10 +6,13 @@
   background-color: white;
 }
 
-/*TODO: picture does not look right relative to text if viewport changes size*/
+.box-header h1 {
+  text-align: center;
+}
+
 #west-photo {
-  float: left;
-  width: 10%;
+  float: right;
+  width: 33%;
   padding-top: 1%;
 }
 
