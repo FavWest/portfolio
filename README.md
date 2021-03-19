@@ -26,7 +26,7 @@ _Victoria West's online portfolio landing page, with information about me and my
 * Open Portfolio folder in Explorer or Finder
 * Double-click "index.html" to open in a browser
 ## Known Bugs
-* Image does not align well with text unless viewport size is large
+* Image does not align well with text unless viewport size is large (fixed 3-19-2021)
 ## License
 MIT
 Copyright (c) 2021 Victoria West
